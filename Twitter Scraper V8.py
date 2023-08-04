@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# coding: utf-8
+# twitter(X) scaper code not supported to new updates
+
 
 # In[1]:
 
